@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dvt
+
+server:
+  port: 80
