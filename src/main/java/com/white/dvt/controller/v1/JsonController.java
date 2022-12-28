@@ -1,6 +1,6 @@
-package com.white.dvt.controller;
+package com.white.dvt.controller.v1;
 
-import com.white.dvt.controller.param.JsonFormatParam;
+import com.white.dvt.controller.vo.param.JsonFormatParam;
 import com.white.dvt.utils.JsonUtils;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

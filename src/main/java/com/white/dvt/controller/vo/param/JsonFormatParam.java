@@ -1,4 +1,4 @@
-package com.white.dvt.controller.param;
+package com.white.dvt.controller.vo.param;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
