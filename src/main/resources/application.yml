@@ -3,4 +3,4 @@ spring:
     name: dvt
 
 server:
-  port: 80
+  port: 8010
